@@ -35,12 +35,12 @@ This repository demonstrates the creation of an ELT pipeline in dbt, using city 
 </br>
 
 ### Setup/Installation Requirements
-* Make a new directory for your project
+* Make new directory:
   ```bash
   mkdir <new-directory>
   cd <new-directory>
   ```
-* Clone the repository by inputting:
+* Clone repository:
   ```bash
   git clone https://github.com/Drewrwhite/la_crime_analysis.git
   ```
