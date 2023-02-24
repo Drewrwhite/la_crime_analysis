@@ -4,6 +4,8 @@
 
 ###  _Exploring Crime - Los Angeles_
 
+My part of a larger project located here: [Team Week 2](https://github.com/Drewrwhite/team-week2)
+
 This repository demonstrates the creation of an ELT pipeline in dbt, using city crime data sourced from public kaggle datasets.
 
 ### Technologies Used
