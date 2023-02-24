@@ -2,7 +2,7 @@
 
 #### By: [Drew White](https://www.linkedin.com/in/drew-riley-white/)
 
-###  _Exploring Crime Los Angeles_
+###  _Exploring Crime - Los Angeles_
 
 This repository demonstrates the creation of an ELT pipeline in dbt, using city crime data sourced from public kaggle datasets.
 
